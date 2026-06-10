@@ -1,0 +1,13 @@
+# Core AI / RAG stack
+ollama
+pinecone
+sentence-transformers
+python-dotenv
+mitreattack-python
+
+# Windows event-log access (Windows only)
+pywin32
+
+# Web GUI
+fastapi
+uvicorn[standard]
